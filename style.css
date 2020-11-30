@@ -1,0 +1,230 @@
+a {
+    color:paleturquoise;
+}
+
+body {
+    font-family: 'Quicksand', sans-serif;
+    color: whitesmoke;
+}
+
+#greetings {
+    position: absolute;
+    text-align: center;
+    width: 100%;
+}
+
+/*RADISH SECTION*/
+
+#radish_text {
+    position: absolute;
+    top: 40px;
+    text-align: center;
+    width: 100%;
+    opacity: 0%;
+}
+
+#radish_drawn {
+    position: absolute;
+    top: 10%;
+    right: 5%;
+}
+
+#radish_stars {
+    position: absolute;
+    top: 10%;
+    right: 5%;
+}
+
+#radish_stars:hover {
+    opacity: 0%;
+}
+
+#radish_stars:hover + #radish_text {
+    opacity: 100%;
+}
+
+/*POKEBALL SECTION*/
+
+#pokeball_text {
+    position: absolute;
+    top: 40px;
+    text-align: center;
+    width: 100%;
+    opacity: 0%;
+}
+
+#pokeball_drawn {
+    position: absolute;
+    top: 25%;
+    right: 20%;
+}
+
+#pokeball_stars {
+    position: absolute;
+    top: 25%;
+    right: 20%;
+}
+
+#pokeball_stars:hover {
+    opacity: 0%;
+}
+
+#pokeball_stars:hover + #pokeball_text {
+    opacity: 100%;
+}
+
+/*TODO SECTION*/
+#todo_text {
+    position: absolute;
+    top: 40px;
+    text-align: center;
+    width: 100%;
+    opacity: 0%;
+}
+
+#todo_drawn {
+    position: absolute;
+    top: 65%;
+    right: 10%;
+}
+
+#todo_stars {
+    position: absolute;
+    top: 65%;
+    right: 10%;
+}
+
+#todo_stars:hover {
+    opacity: 0%;
+}
+
+#todo_stars:hover + #todo_text {
+    opacity: 100%;
+}
+
+/*BLOOM SECTION*/
+
+#bloom_text {
+    position: absolute;
+    top: 40px;
+    text-align: center;
+    width: 100%;
+    opacity: 0%;
+}
+
+#bloom_drawn {
+    position: absolute;
+    top: 50%;
+    right: 35%;
+}
+
+#bloom_stars {
+    position: absolute;
+    top: 50%;
+    right: 35%;
+    /*
+    top: 280px;
+    right: 450px; */
+}
+
+#bloom_stars:hover {
+    opacity: 0%;
+}
+
+#bloom_stars:hover + #bloom_text {
+    opacity: 100%;
+}
+
+/*BRUIN SECTION*/
+
+#bruin_text {
+    position: absolute;
+    top: 40px;
+    text-align: center;
+    width: 100%;
+    opacity: 0%;
+}
+
+#bruin_drawn {
+    position: absolute;
+    top: 20%;
+    right: 60%;
+}
+
+#bruin_stars {
+    position: absolute;
+    top: 20%;
+    right: 60%;
+}
+
+#bruin_stars:hover {
+    opacity: 0%;
+}
+
+#bruin_stars:hover + #bruin_text {
+    opacity: 100%;
+}
+
+/*BRUIN SECTION*/
+
+#pencil_text {
+    position: absolute;
+    top: 40px;
+    text-align: center;
+    width: 100%;
+    opacity: 0%;
+}
+
+#pencil_drawn {
+    position: absolute;
+    top: 60%;
+    right: 60%;
+}
+
+#pencil_stars {
+    position: absolute;
+    top: 60%;
+    right: 60%;
+}
+
+#pencil_stars:hover {
+    opacity: 0%;
+}
+
+#pencil_stars:hover + #pencil_text {
+    opacity: 100%;
+}
+
+/*SHARKNADO SECTION*/
+
+#sharknado_text {
+    position: absolute;
+    top: 40px;
+    text-align: center;
+    width: 100%;
+    opacity: 0%;
+}
+
+#sharknado_drawn {
+    position: absolute;
+    top: 20%;
+    right: 75%;
+}
+
+#sharknado_stars {
+    position: absolute;
+    top: 20%;
+    right: 75%;
+}
+
+#sharknado_stars:hover {
+    opacity: 0%;
+}
+
+#sharknado_stars:hover + #sharknado_text {
+    opacity: 100%;
+}
+
+
+
+
